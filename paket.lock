@@ -3,6 +3,7 @@ STRATEGY: MIN
 RESTRICTION: == netcoreapp2.1
 NUGET
   remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (4.5.4)
     Microsoft.AspNet.WebApi.Client (5.2.4)
       Newtonsoft.Json (>= 10.0.1)
       Newtonsoft.Json.Bson (>= 1.0.1)
