@@ -1,0 +1,4 @@
+source https://www.myget.org/F/nrk/auth/c64eb6ac-a674-493a-9099-320dee35da47/api/v3/index.json
+source https://api.nuget.org/v3/index.json
+
+nuget Microsoft.NET.Sdk.Functions 1.0.24
